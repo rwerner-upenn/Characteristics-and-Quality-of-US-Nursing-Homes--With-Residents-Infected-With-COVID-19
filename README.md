@@ -2,7 +2,7 @@
 
 ## Link to the Article 
 
-## Please Cite the Article as 
+## Citation 
 
 ## Data Set
 The [analytical data set](https://github.com/rwerner-upenn/Characteristics-and-Quality-of-US-Nursing-Homes--With-Residents-Infected-With-COVID-19/blob/master/covid_nh_final.dta) is in .dta (Stata data set) format.  
