@@ -210,7 +210,7 @@ run;
 *Step 6: Create final data set and output to Stata data set for further analysis (limit variables to those
          we will use in analysis)
 ***********************************************************************************************************/
-data data.covid_nh_final;
+data data.COVID_NH_Final;
 set covid_nh_12;
 keep Provider_State covid Overall_Rating Health_Inspection_Rating Staffing_Rating QM_Rating Total_Weighted_Health_Survey_Sco all_citation_cnt 
      Number_of_Facility_Reported_Inci Number_of_Substantiated_Complain Adjusted_Total_Nurse_Staffing_Ho Adjusted_RN_Staffing_Hours_per_R 
