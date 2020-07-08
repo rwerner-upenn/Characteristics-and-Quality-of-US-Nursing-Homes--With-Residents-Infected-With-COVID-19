@@ -1,7 +1,7 @@
 /**********************************************************************************************************************
 *Stata code for creating tables in the article
 **********************************************************************************************************************/
-use "PATH/covid_nh_final.dta"
+use "PATH/COVID_NH_Final.dta"
 
 *Limit sample to DC and 23 states
 keep if Provider_State=="CA" | Provider_State=="CO" | Provider_State=="CT"| Provider_State=="DC" | Provider_State=="DE" | Provider_State=="FL" | Provider_State=="GA" | Provider_State=="IA"| Provider_State=="IL"| Provider_State=="KY"| Provider_State=="MA"| Provider_State=="MD"| Provider_State=="MI"| Provider_State=="MN"| Provider_State=="NC"| Provider_State=="ND"| Provider_State=="NJ"| Provider_State=="NM"| Provider_State=="NV"| Provider_State=="NY"| Provider_State=="OH"| Provider_State=="OK"| Provider_State=="OR"| Provider_State=="TN"
