@@ -1,7 +1,7 @@
 # Characteristics-and-Quality-of-US-Nursing-Homes--With-Residents-Infected-With-COVID-19
 
-## Code for Creating Analytical Data Set
-The analytical data set can be created using the SAS code (NH_with_COVID_Data_Set_Creation_Public_Use.sas) in the repository. The following raw data are also required for creating the data set.  
+## Code
+The analytical data set can be created using the [SAS code](https://github.com/rwerner-upenn/Characteristics-and-Quality-of-US-Nursing-Homes--With-Residents-Infected-With-COVID-19/blob/master/NH_with_COVID_Data_Set_Creation_Public_Use.sas) in the repository. The following raw data are also required for creating the data set.  
 
 ## Data Sources 
   - [COVID-19 Nursing Home Data](https://data.cms.gov/stories/s/COVID-19-Nursing-Home-Data/bkwz-xpvg/)
