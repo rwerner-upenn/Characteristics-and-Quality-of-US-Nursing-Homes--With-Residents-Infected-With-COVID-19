@@ -1,5 +1,8 @@
 # Characteristics-and-Quality-of-US-Nursing-Homes--With-Residents-Infected-With-COVID-19
 
+## Data Set
+The analytical data set is in .dta (Stata data set) format.  
+
 ## Code
 The analytical data set can be created using the [SAS code](https://github.com/rwerner-upenn/Characteristics-and-Quality-of-US-Nursing-Homes--With-Residents-Infected-With-COVID-19/blob/master/NH_with_COVID_Data_Set_Creation_Public_Use.sas) in the repository. The following raw data are also required for creating the data set.  
 
