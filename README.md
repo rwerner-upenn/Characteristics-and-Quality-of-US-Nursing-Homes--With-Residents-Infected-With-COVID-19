@@ -17,3 +17,4 @@ The table and descriptive statistics in the article were created using the [Stat
   - [Nursing Home Compare Provider Information Data](https://data.medicare.gov/Nursing-Home-Compare/Provider-Info/4pq5-n9py)
   - [County-level Data Set of COVID Cases and Deaths](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv)
   - [Skilled Nursing Facility Quality Reporting Program - Provider Data](https://data.medicare.gov/Nursing-Home-Compare/Skilled-Nursing-Facility-Quality-Reporting-Program/fykj-qjee)
+  - [CMS's SSA to FIPS CBSA and MSA County Crosswalk](https://data.nber.org/data/cbsa-msa-fips-ssa-county-crosswalk.html)
