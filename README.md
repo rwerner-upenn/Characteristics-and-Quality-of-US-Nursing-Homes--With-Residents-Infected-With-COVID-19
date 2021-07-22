@@ -1,8 +1,10 @@
 # Characteristics-and-Quality-of-US-Nursing-Homes-With-Residents-Infected-With-COVID-19
 
 ## Link to the Article 
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2768763
 
 ## Citation 
+Chatterjee P, Kelly S, Qi M, Werner RM. Characteristics and Quality of US Nursing Homes Reporting Cases of Coronavirus Disease 2019 (COVID-19). JAMA Netw Open. 2020;3(7):e2016930. doi:10.1001/jamanetworkopen.2020.16930
 
 ## Data Set
 The [analytical data set](https://github.com/rwerner-upenn/Characteristics-and-Quality-of-US-Nursing-Homes--With-Residents-Infected-With-COVID-19/blob/master/covid_nh_final.dta) is in **.dta (Stata data set)** format.  
